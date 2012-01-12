@@ -1,0 +1,10 @@
+This is the second edition of my simple text-based Tic-Tac-Toe game. It expands upon my previous version by using object oriented programming to handle the game board.
+
+Author - Darin Beaudreau
+Last Update - 09/19/2011
+
+INSTRUCTIONS:
+
+This game uses a simple coordinate system to place X's and O's. Player One places O's, while Player Two places X's. You place your pieces by simply typing the row number, followed by the column number, of the spot where you want to place your piece. So if you wanted to place your piece in the middle spot, you would type "2 2" and press <Enter>.
+
+The game is over when any player has three pieces on the board in a line. So if you fill up a row, column, or diagonal line, you win the game. If the game board fills up and neither player has a line of pieces, the game is a tie.
